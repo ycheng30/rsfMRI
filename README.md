@@ -8,9 +8,9 @@ to reduce dimentionality, general linear model and independent component analysi
 ### Top level
 > fmri_preprocess_spm8_ycheng.m
 
-Main function, runs through multiple sessions of one subject in a group folder. The steps and specifications for what is to be done is from the set up file
+Main function, runs through multiple sessions of one subject in a group folder. The steps and specifications for what is to be done is from the set up file <br />
 
-
+<br />
 
 > fmri_preprocess_specs.m
 
