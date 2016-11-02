@@ -24,10 +24,14 @@ Set up file, initializing parameters involved in preprocessing steps to perform 
 Function to extract nuisance from the time series data
 
 
-
 > fmri_regress_nuisance.m, fmri_regress_nuisance_1D
 
 Function to regress out nuisance covariates
+
+
+> conn.m
+
+Function to calculate the correlation between time-series data of voxels.
 
 
 
