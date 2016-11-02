@@ -1,5 +1,5 @@
 # rsfMRI
-This is my Matlab implementation of doing resting-state functional MRI data analysis to identify intrinsic brain network
+This is my Matlab implementation of resting-state functional MRI time-series analysis to identify intrinsic brain network
 
 The codes include motion correction, image registration, image segmentation, spatial normalization, image smoothing, time domain 
 filtering, nuisance removal, spectral analysis, trend removal, correlation and causality analysis, principal component analysis 
