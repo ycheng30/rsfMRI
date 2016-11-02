@@ -14,32 +14,32 @@ Main function, runs through multiple sessions of one subject in a group folder. 
 
 > fmri_preprocess_specs.m
 
-Set up file, initializing parameters involved in preprocessing steps to perform and opions for each
+Set up file, initializing parameters involved in preprocessing steps to perform and opions for each <br />
 
-
+<br />
 
 ### Some of the core components used in final script:
 > fmri_extract_nuisance.m 
 
-Function to extract nuisance from the time series data
-
+Function to extract nuisance from the time series data <br />
+<br />
 
 > fmri_regress_nuisance.m, fmri_regress_nuisance_1D
 
-Function to regress out nuisance covariates
-
+Function to regress out nuisance covariates <br />
+<br />
 
 > conn.m
 
-Function to calculate the correlation between time-series data of voxels.
+Function to calculate the correlation between time-series data of voxels. <br />
 
-
+<br />
 
 > fmri_smooth_spm8.m
 
-Function to perform smoothing on functional files in one directory
+Function to perform smoothing on functional files in one directory <br />
 
-
+<br />
 
 > fmri_time_filt.m
 
