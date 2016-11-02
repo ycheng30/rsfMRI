@@ -5,7 +5,7 @@ The codes include motion correction, image registration, image segmentation, spa
 filtering, nuisance removal, spectral analysis, trend removal, correlation and causality analysis, principal component analysis 
 to reduce dimentionality, general linear model and independent component analysis for brain network detection
 
-### Top level
+## Top level
 > fmri_preprocess_spm8_ycheng.m
 
 Main function, runs through multiple sessions of one subject in a group folder. The steps and specifications for what is to be done is from the set up file <br />
@@ -18,7 +18,7 @@ Set up file, initializing parameters involved in preprocessing steps to perform 
 
 <br />
 
-### Some of the core components used in final script:
+## Some of the core components used in final script:
 > fmri_extract_nuisance.m 
 
 Function to extract nuisance from the time series data <br />
